@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-04-images/static/css/main.f73765f9.css",
+    "main.css": "/goit-react-hw-04-images/static/css/main.5178c351.css",
     "main.js": "/goit-react-hw-04-images/static/js/main.4ed3dcf1.js",
-    "static/media/AdobeStock_540762797_Preview.jpeg": "/goit-react-hw-04-images/static/media/AdobeStock_540762797_Preview.01d27fe8ba1509822c3a.jpeg",
+    "static/media/old-black-background-grunge-texture-blackboard-chalkboard-concrete.jpg": "/goit-react-hw-04-images/static/media/old-black-background-grunge-texture-blackboard-chalkboard-concrete.63243e8f137976e03764.jpg",
     "static/media/search-svgrepo-com.svg": "/goit-react-hw-04-images/static/media/search-svgrepo-com.b778bba2bba417945c6e.svg",
     "index.html": "/goit-react-hw-04-images/index.html",
-    "main.f73765f9.css.map": "/goit-react-hw-04-images/static/css/main.f73765f9.css.map",
+    "main.5178c351.css.map": "/goit-react-hw-04-images/static/css/main.5178c351.css.map",
     "main.4ed3dcf1.js.map": "/goit-react-hw-04-images/static/js/main.4ed3dcf1.js.map"
   },
   "entrypoints": [
-    "static/css/main.f73765f9.css",
+    "static/css/main.5178c351.css",
     "static/js/main.4ed3dcf1.js"
   ]
 }
