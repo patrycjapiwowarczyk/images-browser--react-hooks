@@ -1,1 +1,1 @@
-https://patrycjapiwowarczyk.github.io/goit-react-hw-04-images/
+https://patrycjapiwowarczyk.github.io/images-browser--react-hooks/
